@@ -1,0 +1,1 @@
+Bootstrapper.bindDependencyImmediate(function(){var Bootstrapper=window["Bootstrapper"];var ensightenOptions=Bootstrapper.ensightenOptions;(new Image).src="//go.affec.tv/i/588a065df1436d0009a89a29"},1827210,[2389553],461550,[270434]);

@@ -1,0 +1,1 @@
+Bootstrapper.bindDependencyImmediate(function(){var Bootstrapper=window["Bootstrapper"];var ensightenOptions=Bootstrapper.ensightenOptions;(new Image).src="//rtd.tubemogul.com/upi/?sid\x3dwEUbrPR4rEhvRT2cNvXo"},1394424,[2389553],328031,[270434]);

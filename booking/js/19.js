@@ -1,0 +1,1 @@
+Bootstrapper.bindDependencyImmediate(function(){var Bootstrapper=window["Bootstrapper"];var ensightenOptions=Bootstrapper.ensightenOptions;Bootstrapper.loadScriptCallback("//platform.twitter.com/oct.js",function(){twttr.conversion.trackPid("l6hwn")})},926957,[2389553],326238,[270434]);

@@ -1,0 +1,2 @@
+Bootstrapper.bindDependencyImmediate(function(){var Bootstrapper=window["Bootstrapper"];var ensightenOptions=Bootstrapper.ensightenOptions;var ids=[];ids.push("DC-6278228");ids.push("AW-1030185154");var dl="dataLayer";var url="//www.googletagmanager.com/gtag/js?id\x3d"+ids[0]+(dl!=="dataLayer"?"\x26l\x3d"+dl:"");Bootstrapper.loadScriptCallback(url,function(){window[dl]=window[dl]||[];window.gtag=function(){window[dl].push(arguments)};gtag("js",new Date);for(var i=0;i<ids.length;i++)gtag("config",
+ids[i])})},2368638,[2389553],528581,[270434]);
